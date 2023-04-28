@@ -10,6 +10,7 @@ Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/t/tldextract/%{module}-%{version}.tar.gz
 # Source0-md5:	f1e1e75521d9c939aaff2b84dd59f2d8
 URL:		https://github.com/john-kurkowski/tldextract/stargazers
+BuildRequires:	python3
 BuildRequires:	python3-modules >= 1:3.7
 BuildRequires:	python3-setuptools
 BuildRequires:	python3-setuptools_scm
