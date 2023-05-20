@@ -2,13 +2,13 @@
 %define		module		tldextract
 Summary:	Accurately separate the TLD from the registered domain and subdomains of a URL
 Name:		python3-%{module}
-Version:	3.4.3
+Version:	3.4.4
 Release:	1
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/tldextract/
 Source0:	https://files.pythonhosted.org/packages/source/t/tldextract/%{module}-%{version}.tar.gz
-# Source0-md5:	67c73de8a8ba2eebd98f25b707e58a3b
+# Source0-md5:	06617f12c12acc534517228d191928ef
 URL:		https://github.com/john-kurkowski/tldextract/stargazers
 BuildRequires:	python3
 BuildRequires:	python3-modules >= 1:3.7
