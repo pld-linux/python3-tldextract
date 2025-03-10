@@ -3,7 +3,7 @@
 Summary:	Accurately separate the TLD from the registered domain and subdomains of a URL
 Name:		python3-%{module}
 Version:	3.4.4
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/tldextract/
